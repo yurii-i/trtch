@@ -4,7 +4,7 @@ install:
 
 test:
 
-`mocha`
+`npm test`
 
 
 Usage:
